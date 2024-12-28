@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 15 22:02:37 2020
-creating chatterbot
-@author: rogue
-"""
 
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
